@@ -1,0 +1,15 @@
+{
+  "name": "js-dsa-lc",
+  "version": "1.0.0",
+  "description": "leetcode in JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "js-dsa-lc"
+  },
+  "author": "Ryan Van Valkenburg",
+  "license": "ISC"
+}
